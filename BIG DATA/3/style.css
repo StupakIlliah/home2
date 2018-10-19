@@ -1,0 +1,161 @@
+body {
+  background-image: url(https://www.pptgrounds.com/wp-content/uploads/2016/06/Milk-Powerpoint-Backgrounds.jpg);
+  background-repeat: no-repeat;
+  overflow: visible;
+  background-attachment: fixed;
+}
+
+
+.a:focus {
+color: red;
+
+}
+.a {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+
+  color: black;
+}
+.b[value] {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  color:  blue;
+
+
+}
+.b {
+
+  border: 2px solid yellow;
+  border-radius: 10px;
+}
+div.foxy1 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+
+  top: 15%;
+  left: 5%;
+  background-color: green !important;
+}
+#fafa  {
+  background-color: red;
+}
+p {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  text-align: left;
+  max-width: 50%;
+  font-size: 20px;
+  font-weight: lighter;
+  font-style: italic;
+  font-family: Arial, serif;
+  white-space: pre-wrap;
+  line-height: 1.5;
+
+
+}
+p::first-line {
+  text-decoration: underline;
+  text-transform: uppercase;
+  gg
+}
+sup, sub {
+  color: red;
+}
+.pool1 {
+  position: absolute;
+
+  height: 100px;
+  width: 100px;
+
+  top: 5%;
+  left: 30%;
+ background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Tie-Dye-Backgrounds-Screen-Picutres.jpg);
+
+}
+
+.pool2 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 5%;
+  left: 45%;
+  background-position: 100px;
+
+  background-image: url(https://rfclipart.com/image/big/0e-f5-59/background-from-colorful-letters-Download-Royalty-free-Vector-File-EPS-166157.jpg);
+}
+.pool3 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 20%;
+  left: 30%;
+  background-color: red;
+}
+.pool4 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 20%;
+  left: 45%;
+  background-color: black;
+}
+.jjj1 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 20%;
+  left: 60%;
+  background-color: green;
+  box-sizing: border-box;
+}
+.jjj2 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 20%;
+  left: 75%;
+  background-color: red;
+}
+.jjj3 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 5%;
+  left: 60%;
+  background-color: green;
+}
+.jjj4 {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+
+  top: 5%;
+  left: 75%;
+  background-color: red;
+}
+.fofo[type] {
+
+  position: absolute;
+
+  border: 2px solid black;
+  box-sizing: border-box;
+  top: 35%;
+  left:65%;
+}
+.fotos .fofo {
+position: absolute;
+top: 35%;
+left:65%;
+margin-bottom: 20px;
+padding: 10px;
+
+}
