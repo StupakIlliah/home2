@@ -1,0 +1,53 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 280px;
+  min-height: 280px;
+  padding-top: 20px;
+  padding-left: 20px;
+
+  font-size: 14px;
+  line-height: 1.2;
+  font-family: "Arial", sans-serif;
+
+  background-color: #ecf0f1;
+}
+
+
+div {
+
+  background-color: #1abc9c;
+  color: #ffffff;
+  width: 200px;
+  padding: 20px 20px;
+ }
+
+div .social {
+  display: inline-block;
+
+
+  padding: 27px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background: #16a085 url("https://cdn-images-1.medium.com/max/1600/1*_lVsnEjZp8qUtbVcePntwA.png") no-repeat;
+  border-radius: 20px;
+  }
+ div .social-fb {
+
+  background-position: -9px -10px;
+  margin-right: 10px;
+  }
+ div .social-tw {
+
+  background-position: -297px -10px;
+  margin-right: 10px;
+  }
+ div .social-gl {
+
+  background-position: -153px -10px;
+  margin-right: 10px;
+  }
