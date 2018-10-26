@@ -1,0 +1,22 @@
+
+
+svg {
+  border: 1px solid #dddddd;
+}
+
+.yellowgreen  {
+  fill: none;
+  stroke: yellowgreen;
+  stroke-width: 5;
+  }
+.gold {
+  fill: none;
+  stroke: gold;
+  stroke-width: 10;
+  }
+.lightseagreen {
+  fill: none;
+  stroke: lightseagreen;
+  stroke-width: 30;
+  stroke-opacity: 0.5;
+  }
