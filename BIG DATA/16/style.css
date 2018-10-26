@@ -1,0 +1,21 @@
+
+
+svg {
+  border: 1px solid #dddddd;
+
+}
+.sun1 {
+  fill: gold;
+  stroke: tomato;
+  stroke-width: 150;
+  stroke-dasharray: 15 15;
+
+  }
+  .sun2 {
+  fill: gold;
+  stroke: darkorange;
+  stroke-width: 130;
+  stroke-dasharray: 15 15;
+  }
+  .sun3 {
+  fill: gold;
