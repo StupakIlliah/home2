@@ -1,0 +1,42 @@
+body {
+font-family: Arial, sans-serif;
+font-size: 20px;
+background: none;
+
+}
+.container {
+  width: 500px;
+  margin: 50px auto;
+
+}
+.outline {
+  padding: 20px;
+  border: 3px solid black;
+  margin-bottom: 20px;
+  background: rgba(255, 255, 0, 0.2);
+}
+.column1, .column2, .column3 {
+min-height: 200px;
+
+}
+.column1 {
+  float: left;
+  width: 104px;
+  background-color: rgba(255, 200, 250, 0.5);
+  margin-right: 25px;
+}
+
+.column2 {
+  float: left;
+  width: 104px;
+  background-color: rgba(255, 100, 150, 0.5);
+}
+.column3 {
+  float: right;
+  background-color: rgba(255, 200, 100, 0.5);
+  width: 104px;
+
+}
+.footer {
+  clear: both;
+}
